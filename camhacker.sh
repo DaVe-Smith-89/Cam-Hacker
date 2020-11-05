@@ -1,6 +1,7 @@
-#!/bin/bash
-# Inspired by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/kinghacker0/WishPhish
+
+#coded by Dave Smith
+#admin of cyber worriors
+
 pkg install git php wget -y -y
 pkg install php -y
 pkg install openssh -y
