@@ -4,13 +4,13 @@
 
 <h5>$ apt update && apt upgrade<h5/>
 
-$ pkg install git -y
+`pkg install git -y`
 
-$ git clone http://github.com/DaVe-Smith-89/Cam-Hacker.git
+`git clone http://github.com/DaVe-Smith-89/Cam-Hacker.git`
 
-$ cd Cam-Hacker
+`cd Cam-Hacker`
 
-$ bash camhacker.sh
+`bash camhacker.sh`
 
 
 <hr colour="Red" size="10">
