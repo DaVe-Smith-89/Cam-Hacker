@@ -2,7 +2,10 @@
 
 <h3>Command list👇<h3/>
 
-<h5>$ apt update && apt upgrade<h5/>
+<h5> <h5/>
+
+
+`apt update && apt upgrade -y`
 
 `pkg install git -y`
 
