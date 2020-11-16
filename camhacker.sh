@@ -253,4 +253,4 @@ checkfound
 banner
 dependencies
 start1
-
+cd captured
