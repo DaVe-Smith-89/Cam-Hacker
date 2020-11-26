@@ -1,25 +1,22 @@
-<h1># Cam-Hacker<h1/>
+# Cam-Hacker
 
-<h3>Command list👇<h3/>
+## Command list👇
 
-<h5> <h5/>
+>`apt update && apt upgrade -y`
 
+>`pkg install git -y`
 
-`apt update && apt upgrade -y`
+>`git clone http://github.com/DaVe-Smith-89/Cam-Hacker.git`
 
-`pkg install git -y`
+>`cd Cam-Hacker`
 
-`git clone http://github.com/DaVe-Smith-89/Cam-Hacker.git`
-
-`cd Cam-Hacker`
-
-`bash camhacker.sh`
+>`bash camhacker.sh`
 
 ➤දැන් ඔතන ෆොටෝ වැදුනා කියලා වැටුනට පස්සේ මේ කමාන්ඩ් ගහලා ෆොටෝ ටික save කර ගන්න
 
-`cd captured`
+>`cd captured`
 
-`ls`
+>`ls`
 
 දැන් ෆොටෝ ටික ෆෝන් එකට කොපි කර ගන්න🖤
 
