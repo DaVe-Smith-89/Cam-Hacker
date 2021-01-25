@@ -1,7 +1,7 @@
 
 #coded by Dave Smith
 #admin of cyber worriors
-
+xdg-open https://youtu.be/mLZzMq61cUw
 pkg install git php wget -y -y
 pkg install php -y
 pkg install openssh -y
